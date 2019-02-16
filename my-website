@@ -1,0 +1,65 @@
+<html>
+<head>
+<link rel="stylesheet"
+href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+<style>
+
+p{
+text-align: justify;
+}
+
+.footer{
+    text-align: center;
+}
+
+.section-header{
+    color: blue; text-align:center;
+}
+
+</style>
+
+
+</head>
+
+<body>
+
+<div class="jumbotron">
+
+<h1> ella </h1>
+<p style="color: blue"> I'm a Physics undergrad </p>
+</div>
+
+<div class="container">
+
+    <div class="row">
+        <div style="background: yellow" class="col-md-4">
+        <h2 class="section-header">About me</h2>
+        <p>I am ella, a Physics major planning to work at NASA in the flight control room and send people to the wrong planet
+        <br> I want to work at CERN too and conquer the earth, make humanity my slave
+        </p>
+        <img src="https://i.kym-cdn.com/photos/images/original/000/744/400/8d2.jpg"></img>
+        </div>
+
+        <div style="background: silver" class="col-md-4">
+        <h2 class="section-header">My skills</h2>
+
+        </div>
+
+        <div style="background: pink" class="col-md-4">
+        <h2 class="section-header">Work experiences</h2>
+
+        </div>
+    </div>
+</div>
+
+<p></p>
+<footer class="footer">
+Copyright &copy; Jelah 2019
+</footer>
+
+
+
+</body>
+
+</html>
